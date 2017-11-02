@@ -1,0 +1,25 @@
+{
+  "name": "merge-view-codemirror",
+  "version": "1.0.0",
+  "description": "Merge view - Codemirror component in Angular 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zajezdy/merge-view-codemirror.git"
+  },
+  "keywords": [
+    "merge",
+    "view",
+    "codemirror",
+    "angular4"
+  ],
+  "author": "swihi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zajezdy/merge-view-codemirror/issues"
+  },
+  "homepage": "https://github.com/zajezdy/merge-view-codemirror#readme"
+}
