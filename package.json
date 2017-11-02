@@ -1,6 +1,6 @@
 {
   "name": "merge-view-codemirror",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Merge view - Codemirror component in Angular 4",
   "main": "index.js",
   "scripts": {
