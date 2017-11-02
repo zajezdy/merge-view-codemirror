@@ -5,7 +5,7 @@
 
 // declare global: DiffMatchPatch.diff_match_patch, DiffMatchPatch.DIFF_INSERT, DiffMatchPatch.DIFF_DELETE, DiffMatchPatch.DIFF_EQUAL
 
-function init(CodeMirror, DiffMatchPatch) {
+export function init(CodeMirror, DiffMatchPatch) {
     "use strict";
     var Pos = CodeMirror.Pos;
     var svgNS = "http://www.w3.org/2000/svg";
